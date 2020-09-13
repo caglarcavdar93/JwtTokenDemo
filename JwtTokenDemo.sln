@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{881EBC08-B6B3-468E-9562-1A713FEB8920}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtTokenDemo.Api", "src\JwtTokenDemo.Api\JwtTokenDemo.Api.csproj", "{FCEC90A5-3E89-4550-A34E-A49729F11A0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCEC90A5-3E89-4550-A34E-A49729F11A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCEC90A5-3E89-4550-A34E-A49729F11A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCEC90A5-3E89-4550-A34E-A49729F11A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCEC90A5-3E89-4550-A34E-A49729F11A0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FCEC90A5-3E89-4550-A34E-A49729F11A0E} = {881EBC08-B6B3-468E-9562-1A713FEB8920}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35CA39BB-8B06-438F-BEC1-987DA5BAF0D1}
+	EndGlobalSection
+EndGlobal
